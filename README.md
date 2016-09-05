@@ -1,7 +1,7 @@
 # copycat-exercise
 
 ## About
-This is a small exercise I found on a website that I decided i'd have a go at. The website of choice was the [original site](http://www.pairuptocode.com/exercises/copycat.html) because I wanted to make it a little bit odd.
+This is a small exercise I found on a website that I decided i'd have a go at. The website of choice was the [original site](http://www.pairuptocode.com/exercises/copycat.html) because I wanted to make it a little bit odd. You can take a look [here](https://charliebritton.gihub.io/copycat-exercise).
 
 ## Use Cases
 None really. Just a bit of fun.
