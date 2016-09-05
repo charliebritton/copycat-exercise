@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+
+p {
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+.viewport {
+  background-image: url(assets/background-image.jpeg);
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  margin: 5vh 0;
+  height: auto;
+  width: 60vw;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 2px #aaa solid;
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3vh;
+  align-items: center;
+
+}
+
+.current-selected {
+  padding: 1vh;
+  color: #555;
+}
+
+.current-unselected {
+  padding: 1vh;
+  color: #aaa;
+}
+
+.activity-information {
+  width: 60vw;
+  background-color: #fff;
+  padding: 1vh;
+  border-radius: 5px;
+  border: 2px #aaa solid;
+  font-family: 'Roboto', sans-serif;
+}
